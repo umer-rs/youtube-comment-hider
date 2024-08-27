@@ -1,8 +1,9 @@
 {
   "manifest_version": 3,
-  "name": "YouTube Comment Hider",
+  "name": "YouTube Teaser Comment Hider",
   "version": "1.0",
-  "description": "A simple extension to hide comments on YouTube.",
+  "short description": "Hide the new YouTube teaser comment",
+  "description": "A simple extension to hide the teaser comment in the new YouTube Premium interface.",
   "permissions": ["activeTab"],
   "content_scripts": [
     {
